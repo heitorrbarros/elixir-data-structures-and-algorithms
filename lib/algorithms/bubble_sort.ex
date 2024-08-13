@@ -72,6 +72,7 @@ defmodule Algorithms.BubbleSort do
       nil
 
   """
+  @spec sort(list :: list) :: list | nil
   def sort(list) when is_list(list) and list != [] do
     {time, sorted_list} =
       :timer.tc(fn ->
