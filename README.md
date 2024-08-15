@@ -35,6 +35,7 @@ The project includes implementations of the following algorithms:
 
 * Sorting Algorithms
   * [Bubble Sort](./lib/algorithms/bubble_sort.ex)
+  * [Selection Sort](./lib/algorithms/selection_sort.ex)
   * Quick Sort
   * Merge Sort
 * Search Algorithms
