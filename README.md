@@ -21,6 +21,9 @@ iex -S mix
 BubbleSort.sort([10, 3, 1, 6, 7, 11, 29])
 ```
 
+# Leet Code 
+* [Find the Index of the First Occurrence in a String](./lib/algorithms/strings/naive_search.ex)
+
 # Data Structures
 The project includes implementations of the following data structures:
 
@@ -36,6 +39,7 @@ The project includes implementations of the following algorithms:
 * Sorting Algorithms
   * [Bubble Sort](./lib/algorithms/bubble_sort.ex)
   * [Selection Sort](./lib/algorithms/selection_sort.ex)
+  * [Insertion Sort](./lib/algorithms/insertion_sort.ex)
   * Quick Sort
   * Merge Sort
 * Search Algorithms
